@@ -1,4 +1,4 @@
-##Introduction
+## Introduction
 A Sample Blockchain written in Golang to record transactional data about people who buy books.
 
 ## Demo
