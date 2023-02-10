@@ -10,6 +10,11 @@ A Sample Blockchain written in Golang to record transactional data about people 
 [screen-capture.webm](https://user-images.githubusercontent.com/25275596/218035725-99645f5a-ec94-4203-881d-eccc2055bc66.webm)
 
 
+## Program Flow
+
+![Untitled drawio](https://user-images.githubusercontent.com/25275596/218044361-c61f8c04-dffe-49c8-9ac1-79293f68e9ae.png)
+
+
 ## Installation
 Navigate to the root folder and run the following command to install dependencies.
 
